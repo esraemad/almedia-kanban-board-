@@ -31,7 +31,7 @@
     
 📦 Getting Started
     # Clone the repo
-    git clone https://github.com/yourusername/kanban-board.git
+    git clone https://github.com/esraemad/kanban-board.git
     
     # Install dependencies
     npm install
