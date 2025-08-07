@@ -3,6 +3,7 @@
 <img width="1828" height="812" alt="image" src="https://github.com/user-attachments/assets/b2e58348-39e6-4704-9ea3-6219b9450616" />
 
 
+
 🚀 Features
 📌 Add, Edit & Delete Columns and Tasks
 
