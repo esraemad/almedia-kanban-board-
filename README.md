@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-<img width="1828" height="812" alt="image" src="https://github.com/user-attachments/assets/b2e58348-39e6-4704-9ea3-6219b9450616" />
+<img width="1797" height="798" alt="image" src="https://github.com/user-attachments/assets/f80414a1-e2f9-4560-8bf3-0bd037d20c9b" /><br>
+
 
 
 
