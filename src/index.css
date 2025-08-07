@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+.mainBackgroundColor {
+  background-color: #0f1218;
+}
+.columnBackgroundColor {
+  background-color: #161c22;
+}
+.borderColor {
+  border-color: #161c22;
+}
+.noTasks {
+  color: #747474;
+}
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar:horizontal {
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #fe9a00;
+  border-radius: 10px;
+}
+a .active {
+  color: #fe9a00;
+}
+a .active:hover {
+  color: #fe9a00;
+}
+a .active:focus {
+  color: #fe9a00;
+}
