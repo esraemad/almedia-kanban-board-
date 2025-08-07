@@ -1,5 +1,54 @@
 # React + TypeScript + Vite
 
+🚀 Features
+📌 Add, Edit & Delete Columns and Tasks
+
+📝 Detailed Task View with editable title, description, due date, status, and comments
+
+💾 LocalStorage Integration for persistent data across sessions
+
+🧲 Drag & Drop Support powered by @dnd-kit for reordering columns and moving tasks
+
+🔍 Responsive Design for desktop, tablet, and mobile
+
+💬 Comments Section inside each task
+
+🧪 Built using TypeScript for type safety and scalability
+
+    🛠️ Tech Stack
+    React
+    
+    TypeScript
+    
+    Tailwind CSS
+    
+    @dnd-kit
+    
+    React Router
+    
+    localStorage (for persistence)
+
+    
+📦 Getting Started
+    # Clone the repo
+    git clone https://github.com/yourusername/kanban-board.git
+    
+    # Install dependencies
+    npm install
+    
+    # Run the app
+    npm run dev
+
+📁 Project Structure
+
+    src/
+    ├── components/         # Reusable components like TaskCard, ColumnContainer, Modal
+    ├── utils/              # Utility functions for localStorage and task/column logic
+    ├── types/              # TypeScript types
+    ├── icons/              # SVG icon components
+    ├── pages/              # Routing and detail views
+    └── App.tsx             # Main app layout
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
